@@ -1,0 +1,7 @@
+in c#:
+
+char farsiYeh = (char)1740 //"ی"
+char farsiKeh = (char)1705 //"ک"
+
+char arabicYeh = (char)1610 // "ي"
+char arabicKeh = (char)1603 // "ك"
